@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Rishika+Sinha;CSE+Core+Student+%40+VIT+Bhopal;Passionate+about+AI%2C+Cybersecurity+%26+IoT;Full-Stack+Developer+%7C+Python+%7C+React+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Rishika+Sinha;CSE+Core+Student+%40+VIT+Bhopal;Passionate+about+AI%2C+Cybersecurity+%26+IoT;Full-Stack+Developer+and+Cybersecurity+Expert+%7C+Python+%7C+React+%7C+Node.js" alt="Typing SVG" />
 </p>
 
 
@@ -35,6 +35,7 @@
 - 🔄 Secure OTA framework with delta patching + encryption
 - 🛡️ Real-time ML-based intrusion detection for military networks
 - 🕸️ WebGL (Three.js) for 3D visualization
+- Computer Aided Design (CAD) and Computer Aided Analysis (CAE)
 
 ---
 
