@@ -149,19 +149,6 @@ Enterprise-style Wi-Fi Vulnerability Scanner
 
 ---
 
-## 🏡 Smart Home Privacy Scanner
-
-Privacy monitoring platform for IoT ecosystems.
-
-**Highlights**
-
-- Device Monitoring
-- Data Flow Analysis
-- Privacy Risk Classification
-- Browser-based Dashboard
-
----
-
 ## 🪪 Digital Credentials Wallet
 
 Privacy-preserving Digital Identity Platform.
@@ -235,16 +222,6 @@ Interactive ATV customization platform.
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishikasinha29&theme=github_dark&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rishikasinha29&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
